@@ -1,4 +1,4 @@
-Delivery Platform Management (first part)(Java) Aug-Sep 2023 
+Delivery Platform Management (first part)(Java)
 
 Technology Stack: MySQL, MyBatis, Spring Boot, Swagger, Nginx.
 
